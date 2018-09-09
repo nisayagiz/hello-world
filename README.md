@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+Okay so this text will be a different version of the master one.
+Alright!
